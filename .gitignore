@@ -1,0 +1,14 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local development and temporary exports
+node_modules/
+dist/
+*.log
+*.tmp
+.env
+.env.*
+!*.env.example
